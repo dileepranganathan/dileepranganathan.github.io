@@ -2,6 +2,5 @@ title: Dileep Ranganathan # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://github.com/dileepranganathan">Github Profile</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/drangan/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/drangan/">LinkedIn Profile</a>
 theme: jekyll-theme-minimal
